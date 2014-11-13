@@ -1,0 +1,16 @@
+mkdir New-Slide-Home
+cd New-Slide-Home
+git init
+touch README.md
+git add README.md
+git commit -m "first commit"
+git remote add origin https://coding.net/SkyRing/New-Slide-Home.git
+git push -u origin master
+
+cd existing_git_repo
+git remote add origin https://coding.net/SkyRing/New-Slide-Home.git
+git push -u origin master
+
+git clone https://coding.net/SkyRing/New-Slide-Home.git
+
+git push origin master
