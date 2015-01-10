@@ -28,7 +28,7 @@ html {height:100%;}
 
 body {
 
-	background:#000000 url(/iris/img/zairu.gif) 50% 40% no-repeat;
+	background:#000000 url(/img/zairu.gif) 50% 40% no-repeat;
 
 	color:#ffffff;
 
@@ -444,7 +444,7 @@ h6 {
 
 .bgPattern {
 
-	background:url(http://fs0.139js.com/file/AvIwR.jpg) 0 0 repeat;
+	background:url(https://tc-sumcraft.b0.upaiyun.com/201501080901251678.jpg) 0 0 repeat;
 
 	width:100%;
 
@@ -544,7 +544,7 @@ h6 {
 
 	position:relative;
 
-	background:url(/iris/img/bg.jpg) repeat-y 0 0;
+	background:url(/img/bg.jpg) repeat-y 0 0;
 
 	box-shadow:0 0 6px rgba(0, 0, 0, .9);
 
@@ -646,7 +646,7 @@ a.logo span.logo_text {
 
 .navigation_wrap {
 
-	background:url(http://fs0.139js.com/file/feed_eee4b0697014c8b393eakdaa5.jpg) repeat-x 0 0;
+	background:url(https://tc-sumcraft.b0.upaiyun.com/201501080902121293.jpg) repeat-x 0 0;
 
 	margin:5px 0;
 
@@ -656,7 +656,7 @@ a.logo span.logo_text {
 
 #navigation {
 
-	background:url(http://fs0.139js.com/file/feed_eee4b0697014c8b393eakdaa5.jpg) repeat-x 0 bottom;
+	background:url(https://tc-sumcraft.b0.upaiyun.com/201501080902121293.jpg) repeat-x 0 bottom;
 
 	display:block;
 
@@ -670,51 +670,51 @@ a.logo span.logo_text {
 
 
 
-.brown .navigation_wrap {background:url(http://fs0.139js.com/file/feed_eee4b0697014c8b393eakdaa5.jpg) repeat-x -280px 0;}
+.brown .navigation_wrap {background:url(https://tc-sumcraft.b0.upaiyun.com/201501080902121293.jpg) repeat-x -280px 0;}
 
 
 
-.brown #navigation {background:url(http://fs0.139js.com/file/feed_eee4b0697014c8b393eakdaa5.jpg) repeat-x -280px bottom;}
+.brown #navigation {background:url(https://tc-sumcraft.b0.upaiyun.com/201501080902121293.jpg) repeat-x -280px bottom;}
 
 
 
-.green .navigation_wrap {background:url(http://fs0.139js.com/file/feed_eee4b0697014c8b393eakdaa5.jpg) repeat-x -560px 0;}
+.green .navigation_wrap {background:url(https://tc-sumcraft.b0.upaiyun.com/201501080902121293.jpg) repeat-x -560px 0;}
 
 
 
-.green #navigation {background:url(http://fs0.139js.com/file/feed_eee4b0697014c8b393eakdaa5.jpg) repeat-x -560px bottom;}
+.green #navigation {background:url(https://tc-sumcraft.b0.upaiyun.com/201501080902121293.jpg) repeat-x -560px bottom;}
 
 
 
-.red .navigation_wrap {background:url(http://fs0.139js.com/file/feed_eee4b0697014c8b393eakdaa5.jpg) repeat-x -840px 0;}
+.red .navigation_wrap {background:url(https://tc-sumcraft.b0.upaiyun.com/201501080902121293.jpg) repeat-x -840px 0;}
 
 
 
-.red #navigation {background:url(http://fs0.139js.com/file/feed_eee4b0697014c8b393eakdaa5.jpg) repeat-x -840px bottom;}
+.red #navigation {background:url(https://tc-sumcraft.b0.upaiyun.com/201501080902121293.jpg) repeat-x -840px bottom;}
 
 
 
-.black .navigation_wrap {background:url(http://fs0.139js.com/file/feed_eee4b0697014c8b393eakdaa5.jpg) repeat-x -1120px 0;}
+.black .navigation_wrap {background:url(https://tc-sumcraft.b0.upaiyun.com/201501080902121293.jpg) repeat-x -1120px 0;}
 
 
 
-.black #navigation {background:url(http://fs0.139js.com/file/feed_eee4b0697014c8b393eakdaa5.jpg) repeat-x -1120px bottom;}
+.black #navigation {background:url(https://tc-sumcraft.b0.upaiyun.com/201501080902121293.jpg) repeat-x -1120px bottom;}
 
 
 
-.purple .navigation_wrap {background:url(http://fs0.139js.com/file/feed_eee4b0697014c8b393eakdaa5.jpg) repeat-x -1400px 0;}
+.purple .navigation_wrap {background:url(https://tc-sumcraft.b0.upaiyun.com/201501080902121293.jpg) repeat-x -1400px 0;}
 
 
 
-.purple #navigation {background:url(http://fs0.139js.com/file/feed_eee4b0697014c8b393eakdaa5.jpg) repeat-x -1400px bottom;}
+.purple #navigation {background:url(https://tc-sumcraft.b0.upaiyun.com/201501080902121293.jpg) repeat-x -1400px bottom;}
 
 
 
-.wood .navigation_wrap {background:url(http://fs0.139js.com/file/feed_eee4b0697014c8b393eakdaa5.jpg) repeat-x -1680px 0;}
+.wood .navigation_wrap {background:url(https://tc-sumcraft.b0.upaiyun.com/201501080902121293.jpg) repeat-x -1680px 0;}
 
 
 
-.wood #navigation {background:url(http://fs0.139js.com/file/feed_eee4b0697014c8b393eakdaa5.jpg) repeat-x -1680px bottom;}
+.wood #navigation {background:url(https://tc-sumcraft.b0.upaiyun.com/201501080902121293.jpg) repeat-x -1680px bottom;}
 
 
 
@@ -778,12 +778,12 @@ a.logo span.logo_text {
 
 
 
-#navigation li.current_page_item, #navigation li:hover {background:url(/iris/img/feed1.jpg) repeat-x 0 bottom;}
+#navigation li.current_page_item, #navigation li:hover {background:url(/img/feed1.jpg) repeat-x 0 bottom;}
 
 
 .header_arrow {
 
-	background:url(/iris/img/tabq.jpg) no-repeat 16px 15px;
+	background:url(/img/tabq.jpg) no-repeat 16px 15px;
 
 	display:block;
 
@@ -811,7 +811,7 @@ a.logo span.logo_text {
 
 
 
-.header_arrow.hidden span {background:url(/iris/img/tabq.jpg) no-repeat 14px -44px;}
+.header_arrow.hidden span {background:url(/img/tabq.jpg) no-repeat 14px -44px;}
 
 
 
@@ -877,7 +877,7 @@ border-radius: 6px;
 
 .vertical.simple #navigation li ul, .standard.simple #navigation li ul, .simple #navigation li ul {
 
-	background:url(http://fs0.139js.com/file/YvIwR.jpg) no-repeat 0 13px;
+	background:url(https://tc-sumcraft.b0.upaiyun.com/201501080905151100.jpg) no-repeat 0 13px;
 
 	padding:0 0 0 7px;
 
@@ -895,7 +895,7 @@ border-radius: 6px;
 
 .horizon #navigation li ul {
 
-	background:url(http://fs0.139js.com/file/VvIwR.jpg) no-repeat 30px 2px;
+	background:url(https://tc-sumcraft.b0.upaiyun.com/201501080905451478.jpg) no-repeat 30px 2px;
 
 	position:absolute;
 
@@ -911,7 +911,7 @@ border-radius: 6px;
 
 .horizon.simple #navigation li ul {
 
-	background:url(http://fs0.139js.com/file/ZvIwR.jpg) no-repeat 30px 2px;
+	background:url(https://tc-sumcraft.b0.upaiyun.com/201501080906021791.jpg) no-repeat 30px 2px;
 
 	top:48px;
 
@@ -927,7 +927,7 @@ border-radius: 6px;
 
 
 
-.horizon #navigation li li li:first-child {background:#1f1f1f url(http://fs0.139js.com/file/hvIwR.jpg) no-repeat 0 12px;}
+.horizon #navigation li li li:first-child {background:#1f1f1f url(https://tc-sumcraft.b0.upaiyun.com/201501080906261563.jpg) no-repeat 0 12px;}
 
 
 
@@ -987,7 +987,7 @@ border-radius: 6px;
 
 .standard #navigation li ul, .vertical #navigation li ul {
 
-	background:url(http://fs0.139js.com/file/QvIwR.jpg) no-repeat 0 25px;
+	background:url(https://tc-sumcraft.b0.upaiyun.com/201501080906481482.jpg) no-repeat 0 25px;
 
 	padding:0 0 0 7px;
 
@@ -1065,7 +1065,7 @@ border-radius: 6px;
 
 .vartical.simple #navigation li ul li:hover ul, .vertical.simple #navigation li ul li ul, .standard.simple #navigation li ul li:hover ul, .standard.simple #navigation li ul li ul, .simple #navigation li ul li:hover ul, .simple #navigation li ul li ul {
 
-	background:#f2f2f2 url(http://fs0.139js.com/file/cvIwR.jpg) no-repeat 0 12px;
+	background:#f2f2f2 url(https://tc-sumcraft.b0.upaiyun.com/201501080907091400.jpg) no-repeat 0 12px;
 
 	position:absolute;
 
@@ -1077,7 +1077,7 @@ border-radius: 6px;
 
 .vertical #navigation li ul li ul, .standard #navigation li ul li ul {
 
-	background:#1f1f1f url(http://fs0.139js.com/file/ovIwR.jpg) no-repeat 0 12px;
+	background:#1f1f1f url(https://tc-sumcraft.b0.upaiyun.com/201501080907271978.jpg) no-repeat 0 12px;
 
 	position:absolute;
 
@@ -3219,7 +3219,7 @@ border-radius: 10px;
 
 .cmsmsMotionControl .showHide a {
 
-	background:url(/iris/img/tabq.jpg) 14px -44px no-repeat;
+	background:url(../img/tabq.jpg) 14px -44px no-repeat;
 
 	display:block;
 
@@ -3253,7 +3253,7 @@ border-radius: 10px;
 
 
 
-.cmsmsMotionControl .showHide.hidden a {background:url(/iris/img/tabq.jpg) 14px 14px no-repeat;}
+.cmsmsMotionControl .showHide.hidden a {background:url(../img/tabq.jpg) 14px 14px no-repeat;}
 
 
 
@@ -3509,11 +3509,11 @@ border-radius: 10px;
 
 
 
-.cmsmsMotionControl .cmsmsMotionArrows .cmsmsMotionPrev:hover {background:url(/iris/img/xiayiye.jpg) 22px -156px no-repeat;}
+.cmsmsMotionControl .cmsmsMotionArrows .cmsmsMotionPrev:hover {background:url(../img/xiayiye.jpg) 22px -156px no-repeat;}
 
 
 
-.cmsmsMotionControl .cmsmsMotionArrows .cmsmsMotionNext:hover {background:url(/iris/img/xiayiye.jpg) 22px -42px no-repeat;}
+.cmsmsMotionControl .cmsmsMotionArrows .cmsmsMotionNext:hover {background:url(../img/xiayiye.jpg) 22px -42px no-repeat;}
 
 
 
@@ -3694,8 +3694,8 @@ border-radius: 10px;
 }
 
 
-.mature {background:url(/iris/img/Toggle_Type1.png) no-repeat;}
-.mature:hover { background:url(/iris/img/Toggle_Type2.png) no-repeat;}
+.mature {background:url(https://tc-sumcraft.b0.upaiyun.com/201501080857121844.png) no-repeat;}
+.mature:hover { background:url(https://tc-sumcraft.b0.upaiyun.com/201501080857121844.png) no-repeat;}
 
 li, a {
 text-decoration: none;
